@@ -26,8 +26,8 @@ section#login{
     overflow: hidden;
 
     background-color: white;
-    width: 250px;
-    height: 500px;
+    width: 300px;
+    height: 550px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.61);
 
@@ -37,7 +37,7 @@ section#login{
 
 section#login > div#imagem {
     background: #BAA0F2 url(../imagens/pexels-veeterzy-114979.jpg) no-repeat;
-    height: 200px;
+    height: 230px;
     background-size: cover;
     background-position: left bottom;
 }
@@ -71,9 +71,9 @@ div#formulario > p {
 
     div.campo > span{
         color: white;
-        font-size: 2em;
+        font-size: 1.9em;
         width: 40px;
-        padding: 5px;
+        padding:5px;
     }
 
     div.campo > input{
